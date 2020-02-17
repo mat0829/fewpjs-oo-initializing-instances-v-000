@@ -1,3 +1,8 @@
 // Write your code here
 
-class Dog {}
+class Dog {
+  constructor(name, breed) {
+    this.name = name;
+    this.breed = breed
+  }
+}
